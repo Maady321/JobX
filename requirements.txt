@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+sentence-transformers
+python-telegram-bot
+scikit-learn
+numpy
+python-dotenv
